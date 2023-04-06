@@ -1,17 +1,17 @@
 # Проект 2. Проект: Анализ вакансий из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/PavelBurk/SF_data_science/blob/main/Progect_2/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/PavelBurk/SF_data_science/blob/main/Progect_2/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/PavelBurk/SF_data_science/blob/main/Progect_2/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/PavelBurk/SF_data_science/blob/main/Progect_2/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/PavelBurk/SF_data_science/blob/main/Progect_2/README.md#Результат)    
-[6. Выводы](https://github.com/PavelBurk/SF_data_science/blob/main/Progect_2/README.md#Выводы) 
+[1. Описание проекта](https://github.com/PavelBurk/SF_data_science_projects/blob/master/Project_2/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/PavelBurk/SF_data_science_projects/tree/master/Project_2/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/PavelBurk/SF_data_science_projects/tree/master/Project_2/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/PavelBurk/SF_data_science_projects/tree/master/Project_2/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/PavelBurk/SF_data_science_projects/tree/master/Project_2/README.md#Результат)    
+[6. Выводы](https://github.com/PavelBurk/SF_data_science_projects/tree/master/Project_2/README.md#Выводы) 
 
 ### Описание проекта    
 Анализ вакансий из HeadHunter. Поиск общей информации по вакансиям, фильтрация данных по определенным критериямю. 
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/PavelBurk/SF_data_science_projects/blob/master/Project_2/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -33,7 +33,7 @@
 ### Краткая информация о данных
 Табличные данные с сервера.
   
-:arrow_up:[к оглавлению](https://github.com/PavelBurk/SF_data_science/blob/main/Progect_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PavelBurk/SF_data_science_projects/blob/master/Project_2/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -43,13 +43,13 @@
 4. Проведение дополнительных исследований данных.
 4. Вывод результатов и ответы на поставленные вопросы.
 
-:arrow_up:[к оглавлению](https://github.com/PavelBurk/SF_data_science/blob/main/Progect_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PavelBurk/SF_data_science_projects/tree/master/Project_2/README.md#Оглавление)
 
 
 ### Результаты:  
 Получение необходимых данных, построение графиков, проведение дополнительных исследований данных, формулирование выводов и прогнозов.
 
-:arrow_up:[к оглавлению](https://github.com/PavelBurk/SF_data_science/blob/main/Progect_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PavelBurk/SF_data_science_projects/tree/master/Project_2/README.md#Оглавление)
 
 
 ### Выводы:  

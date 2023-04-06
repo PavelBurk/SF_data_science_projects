@@ -1,17 +1,17 @@
 # Проект 1. Проект: Анализ резюме из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/PavelBurk/SF_data_science/blob/main/Progect_00/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/PavelBurk/SF_data_science/blob/main/Progect_00/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/PavelBurk/SF_data_science/blob/main/Progect_00/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/PavelBurk/SF_data_science/blob/main/Progect_00/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/PavelBurk/SF_data_science/blob/main/Progect_00/README.md#Результат)    
-[6. Выводы](https://github.com/PavelBurk/SF_data_science/blob/main/Progect_00/README.md#Выводы) 
+[1. Описание проекта](https://github.com/PavelBurk/SF_data_science_projects/blob/master/Project_1/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/PavelBurk/SF_data_science_projects/blob/master/Project_1/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/PavelBurk/SF_data_science_projects/blob/master/Project_1/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/PavelBurk/SF_data_science_projects/blob/master/Project_1/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/PavelBurk/SF_data_science_projects/blob/master/Project_1/README.md#Результат)    
+[6. Выводы](https://github.com/PavelBurk/SF_data_science_projects/blob/master/Project_1/README.md#Выводы) 
 
 ### Описание проекта    
 Анализ резюме из HeadHunter. Поиск взаимосвязей в данных. Пути решения вопросов. 
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/PavelBurk/SF_data_science_projects/blob/master/Project_1/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -32,7 +32,7 @@
 ### Краткая информация о данных
 Табличные значения формата "CSV".
   
-:arrow_up:[к оглавлению](https://github.com/PavelBurk/SF_data_science/blob/main/Progect_00/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PavelBurk/SF_data_science_projects/blob/master/Project_1/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -41,20 +41,20 @@
 3. Построение графиков.
 4. Вывод результатов и ответ на поставленный вопрос
 
-:arrow_up:[к оглавлению](https://github.com/PavelBurk/SF_data_science/blob/main/Progect_00/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PavelBurk/SF_data_science_projects/blob/master/Project_1/README.md#Оглавление)
 
 
 ### Результаты:  
 Преобразование данных, построение графиков, формулирование выводов.
 
-:arrow_up:[к оглавлению](https://github.com/PavelBurk/SF_data_science/blob/main/Progect_00/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PavelBurk/SF_data_science_projects/blob/master/Project_1/README.md#Оглавление)
 
 
 ### Выводы:  
 1. Сбор и загрузка данных при помощи новых функций и методов.
 2. Закрепление знаний при работе с *Pyton, Pandas, Numpy, Matplotlib, Seaborn, Plotly.*
 
-:arrow_up:[к оглавлению](https://github.com/PavelBurk/SF_data_science/blob/main/Progect_00/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/PavelBurk/SF_data_science_projects/blob/master/Project_1/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
